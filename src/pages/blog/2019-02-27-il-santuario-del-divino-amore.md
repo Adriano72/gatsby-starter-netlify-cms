@@ -7,4 +7,4 @@ tags:
   - santuari
   - beata vergine maria
 ---
-![](/img/_wgr3163.jpg)
+![](https://raw.githubusercontent.com/Adriano72/gatsby-starter-netlify-cms/master/static/img/blog-index.jpg)
